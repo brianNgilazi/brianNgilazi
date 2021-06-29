@@ -13,11 +13,11 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - C#
   - HTML
   - CSS
-  - SQL
   
 - I’m currently learning
   - DevOps
   - Go 
+  - SQL
   
 - Publicly availble projects I have worked on:
   - [Sniper Security Solutions web application](https://riskprofiler.co.za)
