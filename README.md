@@ -21,9 +21,9 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   
 - Publicly availble projects I have worked on:
   - [Sniper Security Solutions web application](https://riskprofiler.co.za)
-  - [Riskprofiler beta](https://riskprofiler.co.za)
+  - [Riskprofiler (beta)](https://riskprofiler.co.za)
   - [Penpass Tutoring platform](https://penpass.net)
-  - [Moonstone Agency website](https://mooonstoneagency.co.za)
+  - [Moonstone Agency website](https://moonstoneagency.co.za)
 
 
  
