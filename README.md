@@ -5,7 +5,7 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - The fundamental nature of the universe
   - Consciousness (and the nature of thought in general)
   
-- Languages and frameworks with which I work:
+- Languages and Frameworks:
   - Java
   - Typescript
   - Javascript
@@ -16,8 +16,8 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   
 - I’m currently learning
   - DevOps
-  - Go 
   - SQL
+  - Python
   
 - Publicly availble projects I have worked on:
   - [Sniper Security Solutions web application](https://riskprofiler.co.za)
