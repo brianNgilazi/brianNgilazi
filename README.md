@@ -1,7 +1,5 @@
 Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance software engineer educated at the University of Cape Town.
 
-I am an open-source enthusiast as I  have learned a lot from the open-source community and deeply appreciate how collaboration and knowledge sharing occurs through open-source.
-
 - I’m interested in
   - All things software development
   - The fundamental nature of the universe
