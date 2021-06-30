@@ -10,7 +10,6 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - Typescript
   - Javascript
   - Angular
-  - C#
   - HTML
   - CSS
   
@@ -18,6 +17,7 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - DevOps
   - SQL
   - Python
+  - C#
   
 - Publicly availble projects I have worked on:
   - [Sniper Security Solutions web application](https://riskprofiler.co.za)
