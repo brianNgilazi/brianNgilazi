@@ -25,7 +25,3 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - [Penpass Tutoring platform](https://penpass.net)
   - [Moonstone Agency website](https://moonstoneagency.co.za)
   - [Hypothesis-24 (beta)](https://hypothesis-24.web.app/home)
-
-
- 
-- 📫 How to reach me : bkcngilazi@gmail.com
