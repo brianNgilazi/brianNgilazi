@@ -10,18 +10,16 @@ Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance sof
   - Typescript
   - Javascript
   - Angular
-  - HTML
-  - CSS
+  - HTML + CSS
+  - Node.Js
   
 - I’m currently learning
   - DevOps
   - SQL
   - Python
-  - C#
   
 - Some projects I have worked on:
   - [Sniper Security Solutions web application](https://snipersecurity.co.za/home)
   - [Riskprofiler (beta)](https://riskprofiler.co.za)
   - [Penpass Tutoring platform](https://penpass.net)
   - [Moonstone Agency website](https://moonstoneagency.co.za)
-  - [Hypothesis-24 (beta)](https://hypothesis-24.web.app/home)
