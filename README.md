@@ -1,25 +1,31 @@
-Hi, I'm Brian Ngilazi, a passionate Full Stack web developer and a freelance software engineer educated at the University of Cape Town.
+Hi, I am Brian Ngilazi, a passionate Full Stack web developer and a freelance software enginee.
+I studied first and second year Computer Science and Information Systems at the University of Cape Town.
+  
+- Languages, Frameworks and Technologies:
+  - Java
+  - Typescript
+  - Javascript
+  - Angular
+  - HTML + (S)CSS
+  - Node.Js
+  - SQL
+  - Google Cloud Platform
+  - Firebase
+  - Linux
+  - Apache
+  
+- I’m currently learning
+  - DevOps
+  - Python
+  - PHP
+  
+- Some projects I have worked on as a full stack developer:
+  - [Sniper Security Solutions web application](https://snipersecurity.co.za/home)
+  - [Riskprofiler (beta)](https://riskprofiler.co.za)
+  - [Penpass Tutoring platform](https://penpass.net)
+  - [Moonstone Agency website](https://moonstoneagency.co.za)
 
 - I’m interested in
   - All things software development
   - The fundamental nature of the universe
   - Consciousness (and the nature of thought in general)
-  
-- Languages and Frameworks:
-  - Java
-  - Typescript
-  - Javascript
-  - Angular
-  - HTML + CSS
-  - Node.Js
-  
-- I’m currently learning
-  - DevOps
-  - SQL
-  - Python
-  
-- Some projects I have worked on:
-  - [Sniper Security Solutions web application](https://snipersecurity.co.za/home)
-  - [Riskprofiler (beta)](https://riskprofiler.co.za)
-  - [Penpass Tutoring platform](https://penpass.net)
-  - [Moonstone Agency website](https://moonstoneagency.co.za)
