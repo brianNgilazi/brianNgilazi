@@ -21,9 +21,10 @@ I studied first and second year Computer Science and Information Systems at the 
   
 - Some projects I have worked on as a full stack developer:
   - [Sniper Security Solutions web application](https://snipersecurity.co.za/home)
-  - [Riskprofiler (beta)](https://riskprofiler.co.za)
   - [Penpass Tutoring platform](https://penpass.net)
   - [Moonstone Agency website](https://moonstoneagency.co.za)
+  - [Riskprofiler (beta)](https://riskprofiler.co.za)
+
 
 - I’m interested in
   - All things software development
