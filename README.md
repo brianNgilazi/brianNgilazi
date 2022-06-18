@@ -24,7 +24,7 @@ I studied first and second year Computer Science and Information Systems at the 
   - [Penpass Tutoring platform](https://penpass.net)
   - [Moonstone Agency website](https://moonstoneagency.co.za)
   - [Riskprofiler (beta)](https://risk-profiler-e123a--preview-r230f3j5.web.app/)
-  - [Transparent Origin (mvp)](https://transparent-origins.web.app/home))
+  - [Transparent Origin (mvp)](https://transparent-origins.web.app/home)
 
 
 - I’m interested in
