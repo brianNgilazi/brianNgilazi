@@ -26,8 +26,3 @@ I studied Computer Science and Information Systems at the University of Cape Tow
   - [Riskprofiler (beta)](https://risk-profiler-e123a--preview-r230f3j5.web.app/)
   - [Transparent Origin (mvp)](https://transparent-origins.web.app/home)
 
-
-- I’m interested in
-  - All things software development
-  - The fundamental nature of the universe
-  - Consciousness (and the nature of thought in general)
