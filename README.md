@@ -23,7 +23,8 @@ I studied first and second year Computer Science and Information Systems at the 
   - [Sniper Security Solutions web application](https://snipersecurity.co.za/home)
   - [Penpass Tutoring platform](https://penpass.net)
   - [Moonstone Agency website](https://moonstoneagency.co.za)
-  - [Riskprofiler (beta)](https://riskprofiler.co.za)
+  - [Riskprofiler (beta)](https://risk-profiler-e123a--preview-r230f3j5.web.app/)
+  - [Transparent Origin (mvp)](https://risk-profiler-e123a--preview-r230f3j5.web.app/)
 
 
 - I’m interested in
