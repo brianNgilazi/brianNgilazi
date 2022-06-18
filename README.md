@@ -1,5 +1,5 @@
 Hi, I am Brian Ngilazi, a passionate Full Stack web developer and a freelance software enginee.
-I studied first and second year Computer Science and Information Systems at the University of Cape Town.
+I studied Computer Science and Information Systems at the University of Cape Town.
   
 - Languages, Frameworks and Technologies:
   - Java
